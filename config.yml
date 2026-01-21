@@ -25,7 +25,7 @@ google_analytics_id:
 title: "jpe's Links"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+avatar: "./images/claw.png"
 
 # Name section text
 name: "@samesense"
@@ -108,15 +108,15 @@ socials:
       target: "_blank"
   - social:
       icon: "fa-brands fa-github"
-      url: "https://github.com/ZhgChgLi"
-      title: "ZhgChgLi's GitHub"
-      alt: "ZhgChgLi's GitHub"
+      url: "https://github.com/samesense"
+      title: "jpes's GitHub"
+      alt: "jpes's GitHub"
       target: "_blank"
   - social:
       icon: "fa-brands fa-twitter"
-      url: "https://twitter.com/zhgchgli"
-      title: "ZhgChgLi's Twitter"
-      alt: "ZhgChgLi's Twitter"
+      url: "https://twitter.com/oncolytic"
+      title: "jpes's Twitter"
+      alt: "jpes's Twitter"
       target: "_blank"
   - social:
       icon: "fa-brands fa-linkedin"

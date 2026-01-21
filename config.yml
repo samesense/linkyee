@@ -22,17 +22,17 @@ plugins:
 google_analytics_id:
 
 # HTML Title
-title: "ZhgChgLi's Links"
+title: "jpe's Links"
 
 # Avatar image path
 avatar: "./images/profile.jpeg"
 
 # Name section text
-name: "@zhgchgli"
+name: "@samesense"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    Computational biologist
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
